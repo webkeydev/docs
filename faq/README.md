@@ -2,7 +2,7 @@
 
 - [Is Webkey Secure?](#is-webkey-secure)
 - [How can I manage more than one device?](#how-can-i-manage-more-than-one-device)
-- [No Don't show again option?] (#no-don't-show-again-option)
+- [No Don't show again option?] (#no-dont-show-again-option)
 
 
 
