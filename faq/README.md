@@ -56,7 +56,8 @@ Please contact us at [info@webkeyapp.com](mailto:info@webkeyapp.com) and we will
 ## How can I remove my device? 
 
 On the dashboard under device details (three dots on the right) there is an option to remove your device.
-![](file:///C:\Users\Peter\Desktop\capture1.png)![](file:///C:\Users\Peter\Desktop\capture1.png) ![](file:///C:\Users\Peter\Desktop\capture2.png)![](file:///C:\Users\Peter\Desktop\capture2.png)
+
+![](https://raw.githubusercontent.com/webkeydev/docs/master/faq/capture2.png)
 
 ## What is the Terminal feature and how to use it? 
 
