@@ -7,12 +7,12 @@
 - [Can I have my own Webkey server?](#can-i-have-my-own-webkey-server)
 - [Do I have to root my  device to use Webkey?](#do-i-have-to-root-my-device-to-use-webkey)
 - [How to control remotely my Android device from any browser with Webkey](#how-to-control-remotely-my-android-device-from-any-browser-with-webkey)
-- [How to start using Webkey?](how-to-start-using-webkey)
-- [Failed to connect devices through Webkey?](failed-to-connect-devices-through-webkey)
-- [How to delete a Webkey account?](how-to-delete-a-webkey-account)
-- [How can I remove my device?](how-can-i-remove-my-device)
-- [What is the terminal feature and how to use it?](what-is-the-terminal-feature-and-how-to-use-it)
-- [How many devices can I control in the Free plan?](how-many-devices-can-i-control-in-the-free-plan)
+- [How to start using Webkey?](#how-to-start-using-webkey)
+- [Failed to connect devices through Webkey?](#failed-to-connect-devices-through-webkey)
+- [How to delete a Webkey account?](#how-to-delete-a-webkey-account)
+- [How can I remove my device?](#how-can-i-remove-my-device)
+- [What is the terminal feature and how to use it?](#what-is-the-terminal-feature-and-how-to-use-it)
+- [How many devices can I control in the Free plan?](#how-many-devices-can-i-control-in-the-free-plan)
 
 
 ## Is Webkey Secure?
