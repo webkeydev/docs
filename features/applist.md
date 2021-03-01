@@ -1,5 +1,6 @@
 # List applications
-###### When you are managing a device from afar, it is useful to have one place where all the apps on the given devices are listed. When you have set-up Webkey and connected your device to your account, you may just do that from your Dashboard. Let’s see how it is done! 
+
+When you are managing a device from afar, it is useful to have one place where all the apps on the given devices are listed. When you have set-up Webkey and connected your device to your account, you may just do that from your Dashboard. Let’s see how it is done! 
 
 After you have opened your Dashboard (https://webkeyapp.com/dashboard/devices) you should select your device. 
 
